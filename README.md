@@ -25,3 +25,4 @@ Portafolio web personal desarrollado como proyecto académico y profesional.
 
 ---
 © 2026 - Portafolio Personal
+[Captura del portafolio funcionando](img/captura-portafolio.png)
